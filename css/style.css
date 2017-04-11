@@ -12,11 +12,13 @@ html, body {
 
 /*adding background images*/
 .jumbotron {
-  background: url(https://lh3.googleusercontent.com/SUCi9gHqUhAJi1DWmFCee4R6b8P7a7Ym51TfsUz-M4v_Db025IINYpdchFzN1KpExTJxBpMZ3FJMYwChdRsc_OrqMvJUwDBTYBtly5aPlebvrsnl42mecdDWydE_rDH0qkxsZqqo-PnyHA7bB7hPmHzpNATm37KkuUKYijmyGsimCdH6fDM5GQVETIm7O_B3ypxzP-kJ2Sxtothx6ZOHffH3lpteDPorz8ZaDwOJMAwZNt54hTChD9mGxtGu1GYp6fnmBIewEtTc0tPVLkWHKNwCnYq_OyoEaH6zvnMZhguw7pbOrhge8QwcDaWll4T2kvBFK2XMOYRUOo6FQ34Rrvh1XfypTz5jJztNaG6EgRQfGM_TdTK2UC4YcD7TJ5YEFV2S6szs-wyaFuGKVFrsTetz8FOYP4L1vaqQ3mGR4eo5S1aFsoQsyVYhm8qu6yrPnWIGRLhCD0C7Nrll-J1uokjr9hWwHfa9WK6FJwaVjf_V8IC0KdtPCNN2MGfadtXbTAy7QcC9__G9xu-qMhoLpqLgD1s05slouF_Z0YQOXWg=w1144-h643-no) no-repeat center center fixed;
+  background: url(fgwsunset.jpg) no-repeat center center fixed;
   display: table;
   height: 100%;
   position: relative;
   width: 100%;
+  padding-top: 10%;
+  padding-bottom: 10%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -35,13 +37,13 @@ html, body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
- 
-  
-  
+
+
+
 }
 #portfolio {
   background-color: #000000;
-background: url(https://lh3.googleusercontent.com/CWbecud2lLZsL-aOydyNQG0q2VcFe9nIEXqwqsOIyxVWaChLY49W1X0YYGwwvcB38ar2e4uemVi9JVdTnY8YXKEw1bAL-2hGH355Zc8jtTNQ9dueUhHGqY6gjFjsilkvCIbNF_Vi8DdAQzUYkH9AgI09dHDAGRbJh3Etpst5B67A3b1Tiz8_Bk1ZPrMCDb-hUZguV9ilGS0SnrGWsjAjTarhomxFeQU3yPZnBkFlg-nLEPxb6IACpZ-NARbfyOI_dq-II35acMTyIbRGruEbj6R1wYI4n3S34OOAi3xWbzpbdw5xhoJ-ilEv--7wc2tkX_66ZbWS6a0-rKzz0-gGzUwKYqqYmfKZXybvukS3PIvhT9cYohzVFS0mwCljfIMnaIxHUmsL-s5iVc5z1RHslOp3QGmBFLQ8RaGAC1VB7Mq8nKoL3O0YbB2VSV3_AzeCVc9U3Jb2GR6n1FARfl_1DtZWo7rsapQDW4runvRn1nRJnuspGmKqZNAlFawP9U2iahFj0di9nu0oeDOBj_DDNQ30nsgOl4vHekNeL5YlTAU=w1144-h643-no) no-repeat center center fixed;
+background: url(bernida.jpg) no-repeat center center fixed;
   display: table;
   height: 100%;
   position: relative;
