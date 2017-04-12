@@ -10,6 +10,9 @@ html, body {
   width: 100%;
 }
 
+.navbar, .navbar-default {
+  background-color: black;
+}
 /*adding background images*/
 .jumbotron {
   background: url(fgwsunset.jpg) no-repeat center center fixed;
@@ -29,10 +32,11 @@ html, body {
  background-color: #899ba3
 ;/* url(https://lh3.googleusercontent.com/qTvjQNreLRwe_OlQKGsXYMt579pKX2UDyOljrKMfcOSB428y4fn6_UloarH8DtNg9ZAkpoO4pN-ORrAEt5RnGiXhOR8VgGmmcpGzfwxSYDwtcBPnC3xEdqaQPzzp5zKWqktuzXKvK0X1eBzkcn29vn3Li20UuRkZvDXVRIFwOenoEWGQRKkh-jFQj_y1A_keLXt-q7BHMt7GaBa_WQRFK5tnR5f2Bnsnl5uXUeIsf5iK7ziIqvMI4ErxGLLzK6jxEkBR6MUmumHFP3SQnuOYAcf10sehZCRDEHA2rtoCQuA-NUxnqcoLud8uUqmLqpsqjZfKxzmGatLBBMPN5UV7ErqgrO4sK5iFdDU6Ur8kCynqPmNaWzWv8oqkhk416QiWz5KEI9wM_EfZywq5cdk4IopeLm2_nPfn1298G5zVr-pOUuG-lmVj7_XbbSqLIor4av2BDDzK5G961SXeZQu7h7byt9vpwMsW4rfusP7YJSmTenYt_njX70ihC5Ih8K2gcxd_Hhao3V2xq3K7ogTVZd6MNdgERzlmm9vf_5F-z6g=w1144-h643-no) no-repeat center center fixed;*/
   display: table;
-  height: 100%;
+  max-height: 100%;
   position: relative;
   width: 100%;
   margin: -30px 0px 0px 0px;
+  font-size: 3vh;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
